@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\轩辕明月\\桌游\\失稳症\\LST-TMP\\ArcticWarfare\\ArcticWarfare.csproj": {}
+  },
+  "projects": {
+    "D:\\轩辕明月\\桌游\\失稳症\\LST-TMP\\ArcticWarfare\\ArcticWarfare.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\轩辕明月\\桌游\\失稳症\\LST-TMP\\ArcticWarfare\\ArcticWarfare.csproj",
+        "projectName": "ArcticWarfare",
+        "projectPath": "D:\\轩辕明月\\桌游\\失稳症\\LST-TMP\\ArcticWarfare\\ArcticWarfare.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "D:\\轩辕明月\\桌游\\失稳症\\LST-TMP\\ArcticWarfare\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\VisualStudioTools\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "E:\\V-Pet": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

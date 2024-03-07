@@ -1,0 +1,13 @@
+D:\轩辕明月\失温症？\LST-TMP\ArcticWarfare\bin\Debug\netstandard2.1\ArcticWarfare.deps.json
+D:\轩辕明月\失温症？\LST-TMP\ArcticWarfare\bin\Debug\netstandard2.1\ArcticWarfare.dll
+D:\轩辕明月\失温症？\LST-TMP\ArcticWarfare\bin\Debug\netstandard2.1\ArcticWarfare.pdb
+D:\轩辕明月\失温症？\LST-TMP\ArcticWarfare\bin\Debug\netstandard2.1\UnityEngine.dll
+D:\轩辕明月\失温症？\LST-TMP\ArcticWarfare\bin\Debug\netstandard2.1\UnityEngine.xml
+D:\轩辕明月\失温症？\LST-TMP\ArcticWarfare\obj\Debug\netstandard2.1\ArcticWarfare.GeneratedMSBuildEditorConfig.editorconfig
+D:\轩辕明月\失温症？\LST-TMP\ArcticWarfare\obj\Debug\netstandard2.1\ArcticWarfare.AssemblyInfoInputs.cache
+D:\轩辕明月\失温症？\LST-TMP\ArcticWarfare\obj\Debug\netstandard2.1\ArcticWarfare.AssemblyInfo.cs
+D:\轩辕明月\失温症？\LST-TMP\ArcticWarfare\obj\Debug\netstandard2.1\ArcticWarfare.csproj.CoreCompileInputs.cache
+D:\轩辕明月\失温症？\LST-TMP\ArcticWarfare\obj\Debug\netstandard2.1\ArcticWarfare.csproj.CopyComplete
+D:\轩辕明月\失温症？\LST-TMP\ArcticWarfare\obj\Debug\netstandard2.1\ArcticWarfare.dll
+D:\轩辕明月\失温症？\LST-TMP\ArcticWarfare\obj\Debug\netstandard2.1\ArcticWarfare.pdb
+D:\轩辕明月\失温症？\LST-TMP\ArcticWarfare\obj\Debug\netstandard2.1\ArcticWarfare.csproj.AssemblyReference.cache
